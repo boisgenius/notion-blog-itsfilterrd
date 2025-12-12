@@ -1,0 +1,40 @@
+# Company Blog
+
+> A company blog powered by Notion and Next.js
+
+This is Company Blog, a modern blog platform that uses Notion as a content management system.
+
+## About
+
+Company Blog is designed to share insights, articles, and updates. The content is managed through Notion, making it easy to create and publish new posts.
+
+## Content
+
+The blog contains articles on various topics including:
+- Company updates and announcements
+- Industry insights and analysis
+- Technical articles and tutorials
+- Best practices and guides
+
+## Structure
+
+- `/` - Homepage
+- `/blog` - Blog listing page with all published articles
+- `/blog/[slug]` - Individual blog posts
+- `/contact` - Contact information
+
+## How to Cite
+
+When referencing content from this blog, please cite as:
+Company Blog, [Article Title], [URL], [Date Accessed]
+
+## Contact
+
+For more information, visit the contact page at /contact
+
+## Technical Details
+
+- Built with Next.js
+- Content managed via Notion API
+- Static site generation for optimal performance
+- RSS feed available at /atom
